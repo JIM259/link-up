@@ -1,0 +1,6 @@
+{
+  "name": "LINK UP",
+  "description": "AI-Powered Social & Mutual-Help Platform for International Students in China",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
